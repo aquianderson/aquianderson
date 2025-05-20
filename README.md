@@ -18,6 +18,7 @@ Olá, sou o Anderson Lemes, estudante de Sistemas de Informação na UTFPR - FB
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aquianderson&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aquianderson&theme=tokyonight&hide_border=false)<br/>
