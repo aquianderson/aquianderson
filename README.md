@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 Olá, sou o Anderson Lemes, estudante de Sistemas de Informação na UTFPR - FB
-<p>Atualmente estou estudando as linguagens <strong>JavaScript e TypeScript</strong>, também as frameworks <strong>React, next e node</strong></p>
+<p>Atualmente estou estudando as linguagens <strong>JavaScript e TypeScript</strong>, também as frameworks <strong>React, Next e Node.</strong></p>
 
 
 ## 🌐 Socials:
