@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá, sou o Anderson Lemes, estudante de Sistemas de Informação - UTFPR
+Olá, sou o Anderson Lemes, estudante de Sistemas de Informação na UTFPR - FB
 
 
 ## 🌐 Socials:
