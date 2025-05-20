@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou Anderson Lemes</h1>
-<h3 align="center">Um estudante de Sistemas de Informação na UTFPR - FB</h3>
+<h3 align="center">Estudante de Sistemas de Informação na UTFPR - FB</h3>
 
-- 🌱 Atualmente estou estudando **React, next, node e tailwindcss.**
+- 🌱 Atualmente estou estudo: **React, Next, Node e Tailwindcss.**
 
 - 📫 Email **andersonlemesantos@icloud.com**
 <hr>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anderson-lemes-dos-santos-557817292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anderson-lemes-dos-santos-557817292" height="30" width="40" /></a>
 </p>
