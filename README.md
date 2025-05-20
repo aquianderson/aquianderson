@@ -21,5 +21,3 @@ Olá, sou o Anderson Lemes, estudante de Sistemas de Informação na UTFPR - FB
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aquianderson&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://raw.githubusercontent.com/aquianderson/aquianderson/output/snake.svg" alt="Snake animation" />
