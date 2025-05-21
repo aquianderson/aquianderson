@@ -21,7 +21,6 @@ Olá, sou o Anderson Lemes, estudante de Sistemas de Informação na UTFPR - FB
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aquianderson&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aquianderson&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aquianderson&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
